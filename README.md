@@ -1,9 +1,9 @@
-## Minimum Cost Path Problem
+# Minimum Cost Path Problem
 *Author*: Nguyen Minh Anh
 This project is solving the minimum cost path problem.
 The source codes are written in Java, C++, and Python with GUI version (Java and Python only).
 
-# Problem:
+## Problem:
 We are given a n x n grid of integers.
 Start point: upper left corner.
 Goal: bottom right corner.
